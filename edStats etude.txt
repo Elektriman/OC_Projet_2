@@ -1,0 +1,89 @@
+edstatscountry
+
+Country Code
+Long Name
+Income Group
+
+---
+edstatscountry_series
+
+CountryCode
+SeriesCode
+
+---
+edstatsdata
+
+Country Code
+Indicator Code
+*
+
+---
+edstatsfootnote
+
+CountryCode
+SeriesCode
+Year
+
+---
+edstatsseries
+
+Series Code
+Topic
+Long definition
+
+
+INCOME
+
+'High income: OECD'
+'High income: nonOECD'
+'Low income'
+'Lower middle income'
+'Upper middle income'
+
+OECD: The Organisation for Economic Co-operation and Development (OECD; French: Organisation de coopération et de développement économiques, OCDE) is an intergovernmental organisation with 38 member countries,[1][4] founded in 1961 to stimulate economic progress and world trade. It is a forum and its members are countries which describe themselves as committed to democracy and the market economy, providing a platform to compare policy experiences, seek answers to common problems, identify good practices and coordinate domestic and international policies of its members.
+The GNI per capita is the dollar value of a country's final income in a year, divided by its population. It should be reflecting the average before tax income of a country's citizens.
+https://en.wikipedia.org/wiki/List_of_countries_by_GNI_(nominal)_per_capita
+GNI = Revenu National Brut = Le revenu national brut (RNB ; en anglais : Gross National Income, GNI) est une valeur assez proche du produit national brut (PNB). Il correspond à la somme des revenus (salaires et revenus financiers) perçus, pendant une période donnée, par les agents économiques nationaux. Le RNB est la somme du PIB et du solde des flux de revenus primaires avec le reste du monde1.
+
+
+TOPICS
+
+'Attainment' 
+'Background' 
+'EMIS' 
+'Early Child Development (SABER)'
+'Early Childhood Education'
+'Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita'
+'Economic Policy & Debt: National accounts: US$ at constant 2010 prices: Aggregate indicators'
+'Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators'
+'Economic Policy & Debt: Purchasing power parity' 
+'Education Equality'
+'Education Management Information Systems (SABER)'
+'Engaging the Private Sector (SABER)' 
+'Expenditures' 
+'Health: Mortality'
+'Health: Population: Dynamics' 
+'Health: Population: Structure'
+'Health: Risk factors' 
+'Infrastructure: Communications' 
+'Laber'
+'Learning Outcomes' 
+'Literacy' 
+'Population' 
+'Post-Secondary/Non-Tertiary'
+'Pre-Primary' 
+'Primary'
+'School Autonomy and Accountability (SABER)'
+'School Finance (SABER)' 
+'School Health and School Feeding (SABER)'
+'Secondary' 
+'Social Protection & Labor: Labor force structure'
+'Social Protection & Labor: Unemployment' 
+'Student Assessment (SABER)'
+'Teachers' 
+'Teachers (SABER)' 
+'Tertiary' 
+'Tertiary Education (SABER)'
+'Workforce Development (SABER)'
+
+SABER : Systems Approach for Better Education Results
