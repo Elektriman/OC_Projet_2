@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d92cdd21-227f-4990-8ee2-554e4c1491d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../affichage_labo/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d92cdd21-227f-4990-8ee2-554e4c1491d8" name="Changes" comment="trying to add venv folder">
+      <change afterPath="$PROJECT_DIR$/../../affichage_labo_1/.idea/affichage_labo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../affichage_labo_1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,5 +48,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../video_presentation" />
+    </ignored-roots>
+    <MESSAGE value="trying to add venv folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to add venv folder" />
   </component>
 </project>
