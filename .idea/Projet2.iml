@@ -4,9 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="affichage_labo_1" />
     <orderEntry type="module" module-name="video_presentation" />
     <orderEntry type="module" module-name="Reverse Ing" />
-    <orderEntry type="module" module-name="affichage_labo" />
   </component>
 </module>
