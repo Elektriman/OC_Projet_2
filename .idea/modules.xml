@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Projet2.iml" filepath="$PROJECT_DIR$/.idea/Projet2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../BDLT/Reverse Ing/.idea/Reverse Ing.iml" filepath="$PROJECT_DIR$/../../../BDLT/Reverse Ing/.idea/Reverse Ing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../video_presentation/.idea/video_presentation.iml" filepath="$PROJECT_DIR$/../../../video_presentation/.idea/video_presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OC_Projet_2.iml" filepath="$PROJECT_DIR$/.idea/OC_Projet_2.iml" />
     </modules>
   </component>
 </project>
