@@ -1,2 +1,0 @@
-EdStatsData.csv filter=lfs diff=lfs merge=lfs -text
-EdStatsFootNote.csv filter=lfs diff=lfs merge=lfs -text
