@@ -1,7 +1,7 @@
 # OC_Projet_2
 Ce projet a pour objectif d'analyser les données de la Banque Mondiale pour déterminer les pays les plus propices à la délocalisation d'une entreprise de cours en ligne.
 
-Ce projet a besoin de git et de python pour son installation <br/>
+Ce projet a besoin de *git* et de *python* pour son installation <br/>
 git : https://git-scm.com/ <br/>
 python : https://www.python.org/
 
